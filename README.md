@@ -2,7 +2,7 @@
 RLC (Random Letter Capitalization) is a tool to randomly change any input text to randomly have capital letters.
 
 ## How to use:
-Simpily install <incert file name> and run it, put input text into the input field, press convert, and the output is in the output text field!
+Simpily download the ```RLC.exe``` file (or the .py version if you have python installed, they are identical) and run it, put input text into the input field, press convert, and the output is in the output text field!
 
 ## Exsamples:
 ```Hello world``` could translate to:
